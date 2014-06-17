@@ -1,0 +1,3 @@
+ErrorDocument 401 /projet/forum.php
+ErrorDocument 403 /projet/forum.php
+ErrorDocument 404 /projet/forum.php
